@@ -16,8 +16,8 @@ This is not meant to be a full fledged app in any sense of the word, however it 
 ### Python Pip Libraries
 Install all libraries with the `requirements.txt` file by entering **$ python -m pip install -r requirements.txt** in a command prompt.
 
-[`pytesseract`](https://pypi.org/project/pytesseract/): Provides API for accessing Tesseract
-[`streamlit`](https://streamlit.io/): Quick & simple interactive web app API
-[`opencv`](https://opencv.org/): For reading in images (can also perform OCR)
-[`pandas`](https://pandas.pydata.org/): For storing and exporting text findings
-[`joblib`](https://joblib.readthedocs.io/en/stable/): Used for saving internal state
+- [`pytesseract`](https://pypi.org/project/pytesseract/): Provides API for accessing Tesseract
+- [`streamlit`](https://streamlit.io/): Quick & simple interactive web app API
+- [`opencv`](https://opencv.org/): For reading in images (can also perform OCR)
+- [`pandas`](https://pandas.pydata.org/): For storing and exporting text findings
+- [`joblib`](https://joblib.readthedocs.io/en/stable/): Used for saving internal state
